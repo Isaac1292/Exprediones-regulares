@@ -1,2 +1,2 @@
-# Exprediones-regulares
+# Expresiones-Regulares
 Validación de Contraseñas
